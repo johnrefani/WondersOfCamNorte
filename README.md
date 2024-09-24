@@ -10,7 +10,6 @@ The project is organized into the following directories:
 - **PHP**: Includes any backend PHP scripts used (if any).
 - **Resources**: Holds images, icons, and other media resources.
 - **SQL**: Contains any SQL scripts used for database setup.
-- **README.md**: This file, providing an overview of the project.
 
 ## Features
 - **Home Page**: An overview of Camarines Norte and its key highlights.
