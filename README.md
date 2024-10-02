@@ -1,5 +1,7 @@
 # WondersOfCamNorte
 
+![Home](Home.png)
+
 ## Introduction
 **WondersOfCamNorte** is a small website showcasing the beautiful landmarks and tourist spots in Camarines Norte, Philippines. Built with HTML and CSS, the site provides an informative and visually appealing guide to the wonders of this province.
 
